@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá sou formado em análise e desenvolvimento de sistemas pela  ![Unigranrio](https://uniganrio.edu.br)
+Olá sou formado em análise e desenvolvimento de sistemas pela  [Unigranrio](https://unigranrio.edu.br)
 
 ##  📫 Contatos e redes sociais
 
