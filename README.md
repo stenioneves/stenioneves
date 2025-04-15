@@ -1,4 +1,4 @@
-# Stenio  Neve 😄
+# Stenio  Neves 😄
 
 <!--
 **stenioneves/stenioneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Olá sou formado em análise e desenvolvimento de sistemas pela  [Unigranrio](https://unigranrio.edu.br)
+Olá sou formado em análise e desenvolvimento de sistemas pela  [Unigranrio](https://unigranrio.edu.br).
 
 ##  📫 Contatos e redes sociais
 
